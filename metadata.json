@@ -1,0 +1,6 @@
+{
+  "name": "FontHub Malayalam & English",
+  "description": "A modern mobile font application with 1,000+ Malayalam and English fonts, real-time typography preview, custom text designer, font downloader, and categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
